@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Akanksha Jain</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 ---
@@ -10,8 +10,8 @@
 ---
 
 ### 🔗 Connect with Me
-- 🌍 Portfolio: https://your-portfolio-link.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌍 Portfolio: https://akanksha-jain.netlify.app
+- 💼 LinkedIn: https://www.linkedin.com/in/akankshajain99/  
 - 🐙 GitHub: https://github.com/akankshajain99 
 
 ---
