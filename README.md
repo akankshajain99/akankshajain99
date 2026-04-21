@@ -24,19 +24,19 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 **Project Name 1**  
-  👉 https://github.com/your-username/repo-name  
+- 🔹 **CPAM IIT Mandi**  
+  👉 https://cpam.iitmandi.ac.in/
 
-- 🔹 **Project Name 2**  
-  👉 https://github.com/your-username/repo-name  
+- 🔹 **Portfolio Website**  
+  👉 https://neetabali.com/  
 
-- 🔹 **Project Name 3**  
-  👉 https://github.com/your-username/repo-name  
+- 🔹 **Quiz Website**  
+  👉 https://uceagra.com/ccc-online-test.php  
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?akankshajain99=akankshajain99&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshajain99&show_icons=true)
 
 ---
 
